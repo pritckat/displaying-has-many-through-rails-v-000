@@ -1,5 +1,5 @@
 
-# Displaying Has Many Through Rails
+# Displaying Has Many Through Rails!
 
 ## Objectives
 
